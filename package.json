@@ -1,5 +1,5 @@
 {
-  "name": "parse-number",
+  "name": "number-pi",
   "version": "1.3.1",
   "description": "Perform addition, subtraction, multiplication and division operations precisely using javascript",
   "main": "build/index.js",
@@ -12,12 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nefe/parse-number.git"
+    "url": "https://github.com/HerbertKarajan/parse-number.git"
   },
   "bugs": {
-    "url": "https://github.com/nefe/parse-number/issues"
+    "url": "https://github.com/HerbertKarajan/parse-number/issues"
   },
-  "homepage": "https://github.com/nefe/parse-number",
+  "homepage": "https://github.com/HerbertKarajan/parse-number",
   "scripts": {
     "build": "rollup -c",
     "watch": "rollup -cw",

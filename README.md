@@ -1,4 +1,4 @@
-# parse-number
+# number-pi
 
 Perform addition, subtraction, multiplication and division operations precisely using javascript
 
@@ -13,7 +13,7 @@ Perform addition, subtraction, multiplication and division operations precisely 
 ### Install
 
 ```
-npm install parse-number --save
+npm install number-pi --save
 ```
 
 ### Methods
@@ -30,7 +30,7 @@ NP.round(num, ratio)  // round a number based on ratio
 ### Usage
 
 ```js
-import NP from 'parse-number'
+import NP from 'number-pi'
 NP.strip(0.09999999999999998); // = 0.1
 NP.plus(0.1, 0.2);             // = 0.3, not 0.30000000000000004
 NP.plus(2.3, 2.4);             // = 4.7, not 4.699999999999999
