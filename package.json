@@ -35,7 +35,7 @@
     "tslint"
   ],
   "devDependencies": {
-    "ava": "^0.24.0",
+    "ava": "^5.1.0",
     "codecov": "^3.1.0",
     "nyc": "^11.3.0",
     "pre-commit": "^1.2.2",
